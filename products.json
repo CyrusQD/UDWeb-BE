@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6453846f40d272f0fb85f90a"
+  },
+  "id": "123",
+  "name": "Keychron V2",
+  "price": "1.999.000",
+  "description": "Full Assembled Knob Frosted Black Led RGB HotSwap Keychron K Pro",
+  "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/ban-phim-co-keychron-v2-full-assembled-knob-carbon-black-led-rgb-hotswap-keychron-k-pro.jpg?v=1672891359157",
+  "averageRating": "5.0"
+},{
+  "_id": {
+    "$oid": "6453846f40d272f0fb85f90b"
+  },
+  "id": "234",
+  "name": "Keychron K3 Pro",
+  "price": "2.699.000",
+  "description": "HotSwap Gateron Low Profile Switch Red / Blue / Brown",
+  "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/ban-phim-co-khong-day-keychron-v3-pro-rgb-hotswap-gateron-low-profile-switch.jpg?v=1679890350010",
+  "averageRating": "5.0"
+},{
+  "_id": {
+    "$oid": "6453846f40d272f0fb85f90c"
+  },
+  "id": "345",
+  "name": "Keychron K4 Pro",
+  "price": "2.599.000",
+  "description": "Full Assembled RGB HotSwap Keychron K Pro Switch Red / Blue / Brown",
+  "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/ban-phim-co-khong-day-keychron-k4-pro-full-assembled-rgb-hotswap-keychron-k-pro-switch.jpg?v=1676620499937",
+  "averageRating": "5.0"
+},{
+  "_id": {
+    "$oid": "6453846f40d272f0fb85f90d"
+  },
+  "id": "456",
+  "name": "Keychron K6 Pro",
+  "price": "2.599.000",
+  "description": "Version B Led RGB HotSwap K Pro Switch Red / Blue / Brown",
+  "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/ban-phim-co-khong-day-keychron-k6-pro-led-rgb-hotswap-k-pro-switch.jpg?v=1669109583907",
+  "averageRating": "5.0"
+},{
+  "_id": {
+    "$oid": "6453846f40d272f0fb85f90e"
+  },
+  "id": "567",
+  "name": "Keychron K7 Pro",
+  "price": "2.699.000",
+  "description": "RGB HotSwap Gateron Low Profile Switch Red / Blue / Brown",
+  "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/ban-phim-co-khong-day-keychron-k7-pro-rgb-hotswap-gateron-low-profile-switch.jpg?v=1679893501857",
+  "averageRating": "5.0"
+},{
+  "_id": {
+    "$oid": "6453846f40d272f0fb85f90f"
+  },
+  "id": "678",
+  "name": "Keychron K8 Pro",
+  "price": "2.599.000",
+  "description": "Version B Aluminum Led RGB HotSwap Gateron G Pro Switch Red / Blue / Brown",
+  "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/329/122/products/ban-phim-co-tkl-khong-day-keychron-k8-pro-version-b-aluminum-led-rgb.jpg?v=1669109184860",
+  "averageRating": "5.0"
+}]
